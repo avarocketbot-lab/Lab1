@@ -1,11 +1,13 @@
-# Rental Quoting Tool — v1 (Concept A: Line-Item Builder)
+# Rental Quoting Tools — Concepts A & B
 
-Built from the **`USD List`** tab of the *2026 Rental Pricing Workbook*. This is the
-first step toward the web app: get the pricing logic right in a spreadsheet, then
-port it.
+Both built from the **`USD List`** tab of the *2026 Rental Pricing Workbook*. These
+are the first step toward the web app: get the pricing logic right in a spreadsheet,
+then port it. Both share the same **Price List** data and the same discount rules,
+so you can compare the two ways of working and pick one to perfect.
 
 ## Files
-- **`Rental_Quoting_Tool.xlsx`** — the working tool (2 tabs).
+- **`Rental_Quoting_Tool.xlsx`** — Concept A, the line-item builder (2 tabs).
+- **`Rental_Kit_Configurator.xlsx`** — Concept B, the guided kit configurator (3 tabs).
 - **`Rental_Price_List.csv`** — the same 114-item price list as portable CSV
   (future data source for the web app / for auditing prices).
 
@@ -40,6 +42,36 @@ Discountable`. Edit prices here and the Quote tab follows.
 - **One-time fees** (training, move fee, tech hours) are entered as lines with
   **Days = 1**.
 
-## Next up — Concept B (Guided Configurator)
-Per your pick (*A, then B*): a wizard-style "pick a device family → tick options →
-get a bundled kit price" flow, layered on the same price list, as presets.
+---
+
+# Concept B — Guided Kit Configurator (`Rental_Kit_Configurator.xlsx`)
+
+The "select what you want, get a price" flow. You build **one kit** from category
+menus, then say how many kits and how many days.
+
+### `Build a Kit` tab
+1. Set **Discount off list** (default 20%), **Number of kits**, and **Rental days**
+   at the top.
+2. Work down the menu sections, picking an item from each dropdown (or leave
+   `- none -`):
+   1. Base monitor  2. Sensors & cartridges  3. EXO modules & accessories
+   4. Docking, charging & G7 accessories  5. G6 accessories & docks
+   6. Monitoring & data plans  7. Gas cylinders & consumables
+3. Set **Qty/kit** for each pick. Each row shows the discounted **rate/day**.
+4. **Kit subtotal/day** sums the rows; **Kit total = subtotal × kits × days**.
+5. **One-time services** (training, move fee, tech hours, call-out) are picked
+   separately and charged **once** (not × days).
+6. **Grand Total = Kit total + one-time subtotal.**
+
+### `Menu` tab
+Drives the dropdowns: a master `Label → SKU` table plus one option list per
+section. It reads prices from the `Price List` tab, so prices stay single-sourced.
+
+### A vs B — when to use which
+- **A (line-item):** free-form — any mix of items and quantities. Best for
+  arbitrary quotes.
+- **B (configurator):** guided — build a standardized kit and scale it by
+  #kits × days. Best for repeatable rental packages.
+
+Both produce the same prices for the same items; they're just two entry styles.
+Tell me which one to perfect and carry into the web app.
