@@ -1,0 +1,115 @@
+SKU,Description,Category,List Price (daily),Discountable,-10%,-15%,-20%,-25%
+RENT-G7C,"Rental service, G7C, diffusion, daily rate",G7C Portables - Diffusion,10.00,Yes,9.00,8.50,8.00,7.50
+RENT-G7C-P,"Rental service, G7C, pump, daily rate",G7C Portables - Diffusion,18.00,Yes,16.20,15.30,14.40,13.50
+RENT-G7C-Z,"Rental service, G7C, standard Z cart, daily rate",G7C Lone Worker,8.00,Yes,7.20,6.80,6.40,6.00
+RENT-G7C-S,"Rental service, G7C, single-gas H2S, daily rate",G7C Lone Worker,10.00,Yes,9.00,8.50,8.00,7.50
+RENT-G7X,"Rental service, G7X, diffusion, daily rate",G7X Portables,10.00,Yes,9.00,8.50,8.00,7.50
+RENT-G7X-P,"Rental service, G7X, pump, daily rate",G7X Portables,18.00,Yes,16.20,15.30,14.40,13.50
+RENT-G7X-Z,"Rental service, G7X, standard Z cart, daily rate",G7X Portables - Lone Worker and Single Gas,8.00,Yes,7.20,6.80,6.40,6.00
+RENT-G7X-S,"Rental service, G7X, single-gas, daily rate",G7X Portables - Lone Worker and Single Gas,10.00,Yes,9.00,8.50,8.00,7.50
+RENT-BRIDGE,"Rental service, G7 bridge, daily rate",G7 Bridge,16.00,Yes,14.40,13.60,12.80,12.00
+RENT-G7EXO,"Rental service, EXO, daily rate",EXO Area Monitor,42.00,Yes,37.80,35.70,33.60,31.50
+RENT-G7EXO-PUMP,"Rental service, EXO, pump module, daily rate",EXO Area Monitor,15.00,Yes,13.50,12.75,12.00,11.25
+RENT-G7EXO-SAT,"Rental service, EXO, satellite module, daily rate",EXO Area Monitor,35.00,Yes,31.50,29.75,28.00,26.25
+RENT-G7EXO-TRANSLATOR,"Rental service, EXO, translator, daily",EXO Area Monitor,5.00,Yes,4.50,4.25,4.00,3.75
+RENT-EX8-GEM-01,"Gas Expansion Module SO2, PID (SVXX)",EXO 8 Gas Expansion Modules,35.00,Yes,31.50,29.75,28.00,26.25
+RENT-EX8-GEM-02,"Gas Expansion Module HF,NH3,SO2,PID (2ASV)",EXO 8 Gas Expansion Modules,55.00,Yes,49.50,46.75,44.00,41.25
+RENT-EX8-GEM-03,"Gas Expansion Module H2,NH3,SO2,PID (6ASV)",EXO 8 Gas Expansion Modules,45.00,Yes,40.50,38.25,36.00,33.75
+RENT-EX8-GEM-04,"Gas Expansion Module NH3,H2S,SO2 (AHSX)",EXO 8 Gas Expansion Modules,25.00,Yes,22.50,21.25,20.00,18.75
+RENT-EX8-GEM-11,"Gas Expansion Module H2,NH3,Cl2,PID (6ALV)",EXO 8 Gas Expansion Modules,50.00,Yes,45.00,42.50,40.00,37.50
+RENT-EX8-GEM-05,"Gas Expansion Module H2,Cl2,HCN,PID (6LNV)",EXO 8 Gas Expansion Modules,50.00,Yes,45.00,42.50,40.00,37.50
+RENT-EX8-GEM-06,"Gas Expansion Module NH3,Cl2,HCN,PID (ALNV)",EXO 8 Gas Expansion Modules,50.00,Yes,45.00,42.50,40.00,37.50
+RENT-EX8-GEM-07,"Gas Expansion Module HF, H2, HCN (26NX)",EXO 8 Gas Expansion Modules,45.00,Yes,40.50,38.25,36.00,33.75
+RENT-EX8-GEM-12,"Gas Expansion Module HF,NH3,Cl2,PID (2ALV)",EXO 8 Gas Expansion Modules,60.00,Yes,54.00,51.00,48.00,45.00
+RENT-EX8-GEM-09,"Gas Expansion Module NH3,H2S,Cl2,PID (AHLV)",EXO 8 Gas Expansion Modules,45.00,Yes,40.50,38.25,36.00,33.75
+RENT-EX8-GEM-08,"Gas Expansion Module O3,H2,Cl2,SO2 (EHLS)",EXO 8 Gas Expansion Modules,35.00,Yes,31.50,29.75,28.00,26.25
+Premium Sensors - Daily,"NH3, high range NH3, NO2, O3, high range H2S or CO, COSH, Cl2, ClO2, CO-H, HCN, H2",Sensor Upgrades & Cartridges,4.00,Yes,3.60,3.40,3.20,3.00
+Advanced Sensor - Daily,CO2,Sensor Upgrades & Cartridges,10.00,Yes,9.00,8.50,8.00,7.50
+VOC/HF Sensor - Daily,"PID, HF",Sensor Upgrades & Cartridges,15.00,Yes,13.50,12.75,12.00,11.25
+RENT-CART-Q-XXXX,"Rental service, diffusion cartridge, std. sensors, daily rate",Sensor Upgrades & Cartridges,6.00,Yes,5.40,5.10,4.80,4.50
+RENT-CART-P-XXXX,"Rental service, pumped cartridge, std. sensors, daily rate",Sensor Upgrades & Cartridges,10.00,Yes,9.00,8.50,8.00,7.50
+RENT-BEACON,"Rental service, beacon, daily rate",G7 Accessories,3.00,Yes,2.70,2.55,2.40,2.25
+RENT-ACC-G7-PWRPAC-NA,"Rental service, G7 powerpack, daily rate",G7 Accessories,2.50,Yes,2.25,2.12,2.00,1.88
+RENT-ACC-CHG-PNL-5-NA,"Rental service, 5-bay charger, daily rate",G7 Accessories,4.00,Yes,3.60,3.40,3.20,3.00
+RENT-ACC-CHG-PNL-20-NA,"Rental service, 20-bay charger, daily rate",G7 Accessories,10.00,Yes,9.00,8.50,8.00,7.50
+RENT-ACC-DOCK-STN-5-LOADED,"Rental service, wall mount, 5-bay dock, loaded",G7 Accessories,65.00,Yes,58.50,55.25,52.00,48.75
+RENT-DOCK-NA,"Rental service, G7 dock, daily rate",G7 Accessories,16.00,Yes,14.40,13.60,12.80,12.00
+RENT-DOCK-NA-W-DF,"Rental service, G7 dock and regulator, daily rate",G7 Accessories,22.00,Yes,19.80,18.70,17.60,16.50
+RENT-ACC-DFR-V,"Rental service, demand flow regulator also suitable for sticky gases",G7 Accessories,6.00,Yes,5.40,5.10,4.80,4.50
+RENT-ACC-REG,"Rental service, fixed flow regulator",G7 Accessories,3.00,Yes,2.70,2.55,2.40,2.25
+RENT-ACC-REG-1L,"Rental service, fixed flow regulator for sticky gases",G7 Accessories,6.00,Yes,5.40,5.10,4.80,4.50
+RENT-ACC-PROBE-12,"Rental service, handheld sample wand, 12"", with filters",G7 Accessories,2.00,Yes,1.80,1.70,1.60,1.50
+RENT-ACC-G7EXO-UMK,"Rental service, EXO, universal mount, daily rate",EXO Accessories,6.00,Yes,5.40,5.10,4.80,4.50
+RENT-ACC-G7EXO-UMK-GAS,"Rental service, UMK gas cylinder bracket",EXO Accessories,2.00,Yes,1.80,1.70,1.60,1.50
+RENT-AUTOBUMP-KIT,"Rental service, auto bump and calibration kit (complete bundle)",EXO Accessories,30.00,Yes,27.00,25.50,24.00,22.50
+RENT-ACC-G7EXO-HMK,"Rental service, EXO, hanging mount, daily rate",EXO Accessories,3.00,Yes,2.70,2.55,2.40,2.25
+RENT-ACC-G7EXO-UMK-SOLAR-KIT,"Rental service, EXO, solar panel kit, daily rate",EXO Accessories,18.00,Yes,16.20,15.30,14.40,13.50
+SER-RENT-ACC-G7EXO-UMK-SIREN-KIT-1D,"Rental service, G7 EXO, siren kit, daily rate",EXO Accessories,14.00,Yes,12.60,11.90,11.20,10.50
+RENT-ACC-G7EXO-BAT,"Rental service, EXO, replacement battery, daily rate",EXO Accessories,9.00,Yes,8.10,7.65,7.20,6.75
+RENT-ACC-G7EXO-TRIPOD,"Rental service, EXO, survey tripod, daily rate",EXO Accessories,8.00,Yes,7.20,6.80,6.40,6.00
+RENT-ACC-G7EXO-STANDOFF,"Rental service, EXO, standoff (low tripod), daily rate",EXO Accessories,6.00,Yes,5.40,5.10,4.80,4.50
+RENT-ACC-G7EXO-SC,"Rental service, EXO, safety tether, daily rate",EXO Accessories,1.00,Yes,0.90,0.85,0.80,0.75
+RENT-ACC-G7EXO-CARRY,"Rental service, EXO, carrying case, daily rate",EXO Accessories,8.00,Yes,7.20,6.80,6.40,6.00
+RENT-G7EXO-FAST-CHARGER,"Rental service, EXO, fast charger",EXO Accessories,6.00,Yes,5.40,5.10,4.80,4.50
+RENT-G6-H,"Rental service, G6, H2S",G6 Single Gas & Accessories,3.00,Yes,2.70,2.55,2.40,2.25
+RENT-G6-M,"Rental service, G6, CO",G6 Single Gas & Accessories,5.00,Yes,4.50,4.25,4.00,3.75
+RENT-G6-O,"Rental service, G6, O2",G6 Single Gas & Accessories,5.00,Yes,4.50,4.25,4.00,3.75
+RENT-G6-S,"Rental service, G6, SO2",G6 Single Gas & Accessories,5.00,Yes,4.50,4.25,4.00,3.75
+RENT-G6DOCK-NA,"Rental service, G6 dock, daily rate",G6 Single Gas & Accessories,12.00,Yes,10.80,10.20,9.60,9.00
+RENT-G6-CHG-05-NA,"Rental Service, G6 Multi-Unit Charger, 5 Slots",G6 Single Gas & Accessories,4.00,Yes,3.60,3.40,3.20,3.00
+RENT-G6-CHG-25-NA,"Rental Service, G6 Multi-Unit Charger, 25 Slots",G6 Single Gas & Accessories,10.50,Yes,9.45,8.92,8.40,7.88
+RENT-ACC-G6-CALTUB,"Rental service, G6 calibration kit - tubing, cal cap",G6 Single Gas & Accessories,2.00,Yes,1.80,1.70,1.60,1.50
+RENT-ACC-G6-POWER-NA,"Rental service, G6 charge clip, block, and cable",G6 Single Gas & Accessories,3.00,Yes,2.70,2.55,2.40,2.25
+RENT-SCHEDULE-5M,"Custom update schedule, 5 minute frequency, daily rate",Additional Services,1.00,Yes,0.90,0.85,0.80,0.75
+RENT-SCHEDULE-1M,"Custom update schedule, 1 minute frequency, daily rate",Additional Services,2.00,Yes,1.80,1.70,1.60,1.50
+RENT-SCHEDULE-30S,"Custom update schedule, 30 second frequency, daily rate",Additional Services,3.00,Yes,2.70,2.55,2.40,2.25
+RENT-SCHEDULE-10S,"Custom update schedule, 10 second frequency, daily rate",Additional Services,4.00,Yes,3.60,3.40,3.20,3.00
+RENT-SCHEDULE-5S,"Custom update schedule, 5 second frequency, daily rate",Additional Services,5.00,Yes,4.50,4.25,4.00,3.75
+RENT-CALLOUT-SURCHARGE,Emergency order surcharge - call-out between 10 PM and 6 AM,Additional Services,400.00,No,400.00,400.00,400.00,400.00
+RENT-TECH-HOUR-ST,"Technician time, hourly, (cancellation, excess cleaning, etc.)",Additional Services,65.00,No,65.00,65.00,65.00,65.00
+RENT-TECH-HOUR-OT,"Technician time, hourly, OT (callout)",Additional Services,97.50,No,97.50,97.50,97.50,97.50
+RENTAL-ONE-TIME,One time charge - as needed,Additional Services,1.00,No,1.00,1.00,1.00,1.00
+SER-RENTAL,Distributor owned device move fee - up to 50 units,Additional Services,80.00,No,80.00,80.00,80.00,80.00
+SER-RENTAL,Distributor owned device move fee - surcharge for units over 50,Additional Services,75.00,No,75.00,75.00,75.00,75.00
+SER-RENTAL,Distributor owned device move fee - per-unit charge over 51,Additional Services,1.50,No,1.50,1.50,1.50,1.50
+RENT-TRAIN,"Training, Daily, at Blackline Facility",Additional Services,1250.00,Yes,1125.00,1062.50,1000.00,937.50
+RENT-TRAVEL-1D,"Training, 1 day, at customer facility",Additional Services,3500.00,Yes,3150.00,2975.00,2800.00,2625.00
+RENT-TRAVEL-2D,"Training, 2 days, at customer facility",Additional Services,4500.00,Yes,4050.00,3825.00,3600.00,3375.00
+RENT-TRAVEL-3D,"Training, 3 days, at customer facility",Additional Services,5500.00,Yes,4950.00,4675.00,4400.00,4125.00
+RENT-TRAVEL-4D,"Training, 4 days, at customer facility",Additional Services,6000.00,Yes,5400.00,5100.00,4800.00,4500.00
+RENT-TRAVEL-5D,"Training, 5 days, at customer facility",Additional Services,6500.00,Yes,5850.00,5525.00,5200.00,4875.00
+RENT-AUTOBUMP,"Rental Service, Auto bump & calibration, daily rate",Additional Services,3.00,Yes,2.70,2.55,2.40,2.25
+RENT-ALERTLINK,"Rental Service, AlertLink, daily rate",Additional Services,1.00,Yes,0.90,0.85,0.80,0.75
+RENT-BV,"Rental Service, Blackline 24/7 live monitoring, daily rate",Additional Services,5.00,Yes,4.50,4.25,4.00,3.75
+RENT-ACC-INLET-FILTER,PTFE inlet filter,Consumables,25.00,Yes,22.50,21.25,20.00,18.75
+RENT-ACC-PUMP-STONE5,"Sintered metal pump stone, bag of 5",Consumables,100.00,Yes,90.00,85.00,80.00,75.00
+RENT-ACC-PUMP-STONE1,Sintered metal pump stone,Consumables,21.00,Yes,18.90,17.85,16.80,15.75
+RENT-ACC-PROBE-12-PTFE-FILT,"Whatman PTFE hydrophobic filter for 12"" sample wand",Consumables,14.50,Yes,13.05,12.32,11.60,10.88
+RENT-ACC-PROBE-12-POREX-FILT,"Porex particulate filter for 12"" sample wand",Consumables,8.50,Yes,7.65,7.22,6.80,6.38
+RENT-ACC-PROBE-12-TUBE,"Lexan tube for 12"" sample wand",Consumables,9.25,Yes,8.33,7.86,7.40,6.94
+RENT-ACC-PROBE-12-ORING,"Replacement o-ring for 12"" sample wand",Consumables,3.50,Yes,3.15,2.98,2.80,2.62
+RENT-ACC-PROBE-12-GASKET,"Replacement gasket for 12"" sample wand",Consumables,1.75,Yes,1.57,1.49,1.40,1.31
+RENT-ACC-T2,Tubing 2' tygon,Consumables,25.00,Yes,22.50,21.25,20.00,18.75
+RENT-ACC-FEP-T2,Tubing 2' teflon,Consumables,44.00,Yes,39.60,37.40,35.20,33.00
+RENT-ACC-T10,Tubing 10' tygon,Consumables,36.00,Yes,32.40,30.60,28.80,27.00
+RENT-ACC-FEP-T10,Tubing 10' teflon,Consumables,92.00,Yes,82.80,78.20,73.60,69.00
+RENT-ACC-T50,Tubing 50' tygon,Consumables,60.00,Yes,54.00,51.00,48.00,45.00
+RENT-ACC-FEP-T50,Tubing 50' teflon,Consumables,287.00,Yes,258.30,243.95,229.60,215.25
+RENT-ACC-LDT100,"Tubing 100' tygon, large diameter",Consumables,71.00,Yes,63.90,60.35,56.80,53.25
+RENT-ACC-PUMP-FILT10,"G7 pump particulate filters, 10",Consumables,20.00,Yes,18.00,17.00,16.00,15.00
+RENT-ACC-S-CAL,G7 single-gas calibration cap,Consumables,19.00,Yes,17.10,16.15,15.20,14.25
+RENT-ACC-Q-CAL,G7 multi-gas calibration cap,Consumables,25.00,Yes,22.50,21.25,20.00,18.75
+RENT-ACC-G6-SENCAP,G6 replacement sensor cap,Consumables,17.00,Yes,15.30,14.45,13.60,12.75
+RENT-GAS-34L-Q,"34L Gas Cylinder, H2S 25ppm/CO 100ppm/CH4 50%LEL/O2 18%",Consumables,207.00,Yes,186.30,175.95,165.60,155.25
+RENT-GAS-116L-Q,"116L Gas Cylinder, H2S 25ppm/CO 100ppm/CH4 50%LEL/O2 18%",Consumables,292.00,Yes,262.80,248.20,233.60,219.00
+RENT-GAS-116L-S,"116L Gas Cylinder, SO2 10ppm, Balance air",Consumables,292.00,Yes,262.80,248.20,233.60,219.00
+RENT-GAS-58L-A,"58L Gas Cylinder, NH3 50ppm, Balance air",Consumables,292.00,Yes,262.80,248.20,233.60,219.00
+RENT-GAS-116L-A,"116L Gas Cylinder, NH3 50ppm, Balance air",Consumables,427.00,Yes,384.30,362.95,341.60,320.25
+RENT-GAS-58L-L,"58L Gas Cylinder, Cl2 5ppm, Balance air",Consumables,243.00,Yes,218.70,206.55,194.40,182.25
+RENT-GAS-58L-K,"58L Gas Cylinder, NO2, 10 ppm, Balance air",Consumables,292.00,Yes,262.80,248.20,233.60,219.00
+RENT-GAS-116L-K,"116L Gas Cylinder, NO2, 10 ppm, Balance air",Consumables,427.00,Yes,384.30,362.95,341.60,320.25
+RENT-GAS-116L-N,"116L Gas Cylinder, HCN 10 ppm, Balance air",Consumables,427.00,Yes,384.30,362.95,341.60,320.25
+RENT-GAS-58L-C,"58L Gas Cylinder, CO2 5000 ppm, Balance air",Consumables,243.00,Yes,218.70,206.55,194.40,182.25
+RENT-GAS-58L-V,"58L Gas Cylinder, Isobutylene 100ppm, Balance air",Consumables,243.00,Yes,218.70,206.55,194.40,182.25
+RENT-GAS-116L-V,"116L Gas Cylinder, Isobutylene 100ppm, Balance air",Consumables,427.00,Yes,384.30,362.95,341.60,320.25
+RENT-GAS-10AL-ZEROAIR,"Gas, 10AL Gas Cylinder, UN1002 Air, 103L",Consumables,292.00,Yes,262.80,248.20,233.60,219.00
